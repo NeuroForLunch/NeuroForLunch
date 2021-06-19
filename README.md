@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeuroForLunch
 - 👀 I’m interested in neuro research
-- 🌱 I’m currently learning bioelectric neuromodulation
-- 💞️ I’m looking to collaborate on rf and ultrasound projects
+- 🌱 I’m currently learning bioelectric wireless neuromodulation
+- 💞️ I’m looking to collaborate on rf, acoustic, and CNN projects
 - 📫 How to reach me: neuro.for.lunch@gmail.com
 
 <!---
